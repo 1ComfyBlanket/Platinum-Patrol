@@ -1,6 +1,4 @@
-=======================================================================================================
-============================== Platinum Patrol v1.74 by comfy blanket ==================================
-=======================================================================================================
+Platinum Patrol v1.74
 
 Platinum Patrol is an AI spawning script that makes use of the headless client and uses simulation for
 caching units to avoid FPS lag spikes from respawning them.
